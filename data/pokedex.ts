@@ -17068,4 +17068,16 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+		thoneder: {
+		num: 486,
+		name: "Thoneder",
+		types: ["Eletric", "Flyning"],
+		gender: "M",
+		baseStats: {hp: 75, atk: 140, def: 50, spa: 40, spd: 80, spe: 120},
+		abilities: {0: "Intimidate"},
+		heightm: 1.6,
+		weightkg: 120,
+		color: "Yellow",
+		eggGroups: ["Undiscovered"],
+	},
 };
